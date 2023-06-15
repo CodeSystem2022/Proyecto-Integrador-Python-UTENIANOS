@@ -1,6 +1,6 @@
 # Proyecto-Integrador-Python-UTENIANOS
 ## El siguiente repositorio contiene el proyecto integrador en lenguaje Python en el cual se realiza un verificador de descuentos por día para clientes con las diferentes formas de pago a seleccionar por día en efectivo, trajeta de débito o de crédito.
-
+<a href='https://postimg.cc/VdQGmZnK' target='_blank'><img src='https://i.postimg.cc/VdQGmZnK/Proyecto-python.gif' border='0' alt='Proyecto-python'/></a>
 
 Para ello organizamos actividades en el grupo Uteniano utilizando la metodología de scrum master
 
