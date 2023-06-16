@@ -1,7 +1,8 @@
 # Proyecto-Integrador-Python-UTENIANOS
-Se desarrolla un Verificador de precios con descuentos. El usuario podrá utilizarlo antes de pagar en la caja,para saber cuanto pagar < a href = ' https://postimg.cc/VdQGmZnK ' target = ' _blank' >< img src = ' https://i.postimg.cc/VdQGmZnK/Proyecto-python.gif ' border = '0' alt = 'Proyecto-python' /></ a
+ <a href="https://postimg.cc/VdQGmZnK" target="_blank"><img src="https://i.postimg.cc/VdQGmZnK/Proyecto-python.gif" alt="Proyecto-python"/></a>
 
-Para ello organizamos actividades en el grupo Uteniano utilizando la metodología scrum master
+Nuestro equipo desarrolla un Verificador de precios con descuentos. En el cual el usuario no tiene que pasar por caja para saber cuanto deberá pagar debido a que el verificador le da el precio con descuentos si realiza su pago en efectivo, con tarjeta de débito o crédito.
+En nuestra organización planificamos actividades dentro del equipo  Uteniano utilizando la metodología scrum master.
 
 |TAREA TERMINADA |NUMERO DE ACTIVIDAD | DESCRIPCION                                                                         |RESPONSABLE DEL MARCO SCRUM                 
 |----------------|--------------------|------------------------------------------------------------------------------------------|-------------------------:|
