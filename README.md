@@ -1,9 +1,10 @@
 # Proyecto-Integrador-Python-UTENIANOS
- <a href="https://postimg.cc/VdQGmZnK" target="_blank"><img src="https://i.postimg.cc/VdQGmZnK/Proyecto-python.gif" alt="Proyecto-python"/></a>
+![Gif Master 1](https://i.postimg.cc/VdQGmZnK/Proyecto-python.gif)
+
 
 ## Nuestro equipo desarrolla un Verificador de precios con descuentos. En el cual el usuario no tiene que pasar por caja para saber cuanto deberá pagar debido a que el verificador le da el precio con descuentos si realiza su pago en efectivo, con tarjeta de débito o crédito.
 En nuestra organización planificamos actividades dentro del equipo  Uteniano utilizando la metodología scrum master.
-
+<a href='https://postimg.cc/sGYkvPfg' target='_blank'><img src='https://i.postimg.cc/sGYkvPfg/Phytongif.gif' border='0' alt='Phytongif'/></a>
 ### TAREAS A REALIZAR                 
 ---
  - [X]           1.    Crear el repositorio incorpora los colaboradores del equipo Utenianos al repositorio             -   David Torres  
