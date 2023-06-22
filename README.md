@@ -13,10 +13,10 @@ En nuestra organización planificamos actividades dentro del equipo  Uteniano ut
 - [X]           2.    El scrum master edita labels , milestone y coloca el nombre del proyecto. Se designan isues a cada integrante del equipo Utenianocrear carpeta de primera parte del código, crear carpeta segunda parte del código python y crear carpeta tercera parte del códigopython,designa encargado de cerar el proyecto y crear la etiqueta final de prueba exitosa, designa tareas de editor de la wiki                                             - Carolina Belén Delgado
 ---
 
-- [ ] 3. Crear carpeta .py para Proyecto Verificador de precios con descuentos y carga primera parte del codigo Agustín Putrino
+- [x] 3. Crear carpeta .py para Proyecto Verificador de precios con descuentos y carga primera parte del codigo Agustín Putrino
 ---
 
-- [ ] 4. Cargar la segunda parte del código Proyecto Verificador de precios con descuentos- Celina Costilla
+- [x] 4. Cargar la segunda parte del código Proyecto Verificador de precios con descuentos- Celina Costilla
 --- 
 
 - [ ] 5. Cargar la tercera parte del código Proyecto Verificador de precios con descuentos- Agustín Saba
