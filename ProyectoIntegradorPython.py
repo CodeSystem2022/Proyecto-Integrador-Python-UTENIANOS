@@ -43,14 +43,6 @@ def menuIngresoDeCompras():
 
     menuDeConfirmacion(calculoCompra)  # Llamar a la función del menú de confirmación
 
-def validacionCantidadArticulos(cantidad):
-    return cantidad > 0  # Validar que la cantidad de artículos sea mayor a 0
-
-def validacionPrecioArticulo(precio):
-    return precio > 0  # Validar que el precio del artículo sea mayor a 0
-
-
-
 ----------------------------------COSTILLA CELINA-----------------------------------------------------------------------------------------
 Parte 2: Menú de confirmación y descuentos
 
