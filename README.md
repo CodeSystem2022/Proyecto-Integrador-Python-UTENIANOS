@@ -19,7 +19,7 @@ En nuestra organización planificamos actividades dentro del equipo  Uteniano ut
 - [x] 4. Cargar la segunda parte del código Proyecto Verificador de precios con descuentos- Celina Costilla
 --- 
 
-- [ ] 5. Cargar la tercera parte del código Proyecto Verificador de precios con descuentos- Agustín Saba
+- [x] 5. Cargar la tercera parte del código Proyecto Verificador de precios con descuentos- Agustín Saba
 ---
 
 - [ ] 6. Realizar la edición de la wiki de Proyecto Verificador de precios con descuentos en código python. -Facundo Giangrave
