@@ -119,3 +119,14 @@ if _name_ == "_main_":
     
 #------------------AGUSTIN SABA------------------
 #Parte 3: Función principal y punto de entrada:
+
+def validacionCantidadArticulos(cantidad):
+    return cantidad > 0  # Validar que la cantidad de artículos sea mayor a 0
+
+def validacionPrecioArticulo(precio):
+    return precio > 0  # Validar que el precio del artículo sea mayor a 0
+
+from menu_compras import menuIngresoDeCompras
+
+if _name_ == "_main_":
+    menuIngresoDeCompras()
