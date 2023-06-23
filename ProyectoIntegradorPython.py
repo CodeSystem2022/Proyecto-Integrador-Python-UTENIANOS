@@ -116,3 +116,6 @@ def calcularDescuento(calculoCompra, porcentajeDescuento):
 
 if _name_ == "_main_":
     menuDeConfirmacion(calculoCompra)
+    
+#------------------AGUSTIN SABA------------------
+#Parte 3: Función principal y punto de entrada:
