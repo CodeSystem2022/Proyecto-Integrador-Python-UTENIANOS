@@ -43,10 +43,10 @@ def menuIngresoDeCompras():
 
     menuDeConfirmacion(calculoCompra)  # Llamar a la función del menú de confirmación
 
-----------------------------------COSTILLA CELINA-----------------------------------------------------------------------------------------
-Parte 2: Menú de confirmación y descuentos
+#----------------------------------COSTILLA CELINA-----------------------------------------------
+#Parte 2: Menú de confirmación y descuentos
 
-CODIGO:
+#CODIGO:
 
 def menuDeConfirmacion(calculoCompra):
     opcionDeseada = 0
