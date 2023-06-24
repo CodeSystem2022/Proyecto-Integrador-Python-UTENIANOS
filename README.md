@@ -22,7 +22,7 @@ En nuestra organización planificamos actividades dentro del equipo  Uteniano ut
 - [x] 5. Cargar la tercera parte del código Proyecto Verificador de precios con descuentos- Agustín Saba
 ---
 
-- [ ] 6. Realizar la edición de la wiki de Proyecto Verificador de precios con descuentos en código python. -Facundo Giangrave
+- [x] 6. Realizar la edición de la wiki de Proyecto Verificador de precios con descuentos en código python. -Facundo Giangrave
 ---
 - [ ] 7. Cerrar el proyecto en la fecha proyectada. Se realiza la prueba y envia la etiqueta de prueba exitosa -Miriam Torres
 
