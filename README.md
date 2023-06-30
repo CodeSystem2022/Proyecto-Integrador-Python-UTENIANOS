@@ -24,7 +24,7 @@ En nuestra organización planificamos actividades dentro del equipo  Uteniano ut
 
 - [x] 6. Realizar la edición de la wiki de Proyecto Verificador de precios con descuentos en código python. -Facundo Giangrave
 ---
-- [ ] 7. Cerrar el proyecto en la fecha proyectada. Se realiza la prueba y envia la etiqueta de prueba exitosa -Miriam Torres
+- [x] 7. Cerrar el proyecto en la fecha proyectada. Se realiza la prueba y envia la etiqueta de prueba exitosa -Miriam Torres
 
 #### Integrantes del equipo Utenianos
 <a href='https://postimg.cc/RJckTQFb' target='_blank'><img src='https://i.postimg.cc/RJckTQFb/utenianos-2-gif.gif' border='0' alt='utenianos-2-gif'/></a>
